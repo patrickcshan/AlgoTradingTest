@@ -1,4 +1,4 @@
-# Algotrading
+# AlgotradingTest
 
 ## BacktraderTest
 
